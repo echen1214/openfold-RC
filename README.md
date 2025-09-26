@@ -1,10 +1,10 @@
 ![header ](imgs/of_banner.png)
 _Figure: Comparison of OpenFold and AlphaFold2 predictions to the experimental structure of PDB 7KDX, chain B._
 
-# OpenFold
+# OpenFold on RC
 
 A faithful but trainable PyTorch reproduction of DeepMind's 
-[AlphaFold 2](https://github.com/deepmind/alphafold).
+[AlphaFold 2](https://github.com/deepmind/alphafold) implemented on the RC Heap cluster
 
 # Documentation
 See our new home for docs at [openfold.readthedocs.io](https://openfold.readthedocs.io/en/latest/), with instructions for installation and model inference/training.
